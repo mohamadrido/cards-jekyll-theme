@@ -1,0 +1,5 @@
+# robotstxt.org/
+
+User-agent: *
+
+Sitemap: https://mohamadrido.github.io/cards-jekyll-theme/sitemap.xml
