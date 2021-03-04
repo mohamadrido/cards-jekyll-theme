@@ -1,2 +1,2 @@
 # cards-jekyll-theme
-Responsive Column Cards Jekyll Theme
+Responsive Column Cards
