@@ -1,6 +1,7 @@
 # cards-jekyll-theme
-<img src="https://github.com/mohamadrido/cards-jekyll-theme/blob/eb65e5e7cb2cdac6f09bcfc92988d34e06d15f84/screenshot-0.jpg">
 ## Responsive Column Cards
+
+<img src="https://github.com/mohamadrido/cards-jekyll-theme/blob/eb65e5e7cb2cdac6f09bcfc92988d34e06d15f84/screenshot-0.jpg">
 
 <a href="https://mohamadrido.github.io/cards-jekyll-theme">Cards Jekyll Theme</a> is Responsive Column Cards for static website or blog with features:
 
