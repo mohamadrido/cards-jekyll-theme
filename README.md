@@ -1,8 +1,7 @@
 # cards-jekyll-theme
 ## Responsive Column Cards
 
-
-This site exist from Cards Jekyll Theme - Responsive Column Cards with some features:
+<a href="https://mohamadrido.github.io/cards-jekyll-theme">Cards Jekyll Theme</a> is Responsive Column Cards, very simple for static website or blog with features:
 
    - Clean homepage three cards
    - Related cards post from sub-categories
@@ -10,8 +9,9 @@ This site exist from Cards Jekyll Theme - Responsive Column Cards with some feat
    - Pagination post
    - 404 not found
    - SEO tag
-   - Analytics
-   - Google adsense
+   - robots.txt
+   - ads.txt
+   - Google adsense support (<a href="https://mohamadrido.com">demo</a>)
    - Cookie notification
 
-You can fork and custom this theme from here. To remove the footer credit, you can contact to Mohamad Rido for about it or just buy me coffee to PayPal.
+You can fork and use this theme from here, feel free to removing the footer credit. But if you download this theme and you want remove the footer credit without fork you can <a href="https://mohamadrido.com/contact">contact</a> me for about it or just buy me coffee to my <a href="https://paypal.me/mohamadrido">PayPal</a>.
