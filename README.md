@@ -20,6 +20,8 @@ You can fork and use this theme from here, feel free to removing the footer cred
 
    - Fork this <a href="https://mohamadrido.github.io/cards-jekyll-theme">Cards Jekyll Theme</a>
    - Go to the "Settings" scroll down to GitHub Pages Source, and select the _gb-pages_ Branch.
-<img src="https://mohamadrido.github.io/cards-jekyll-theme/screenshot-1.jpg"></img>
+
+     <img src="https://mohamadrido.github.io/cards-jekyll-theme/screenshot-1.jpg"></img>
    - Back to the main repository, and select the _gb-pages_ from Branch tree to edit _config.yml_ file.
-<img src="https://mohamadrido.github.io/cards-jekyll-theme/screenshot-2.jpg"></img>
+
+     <img src="https://mohamadrido.github.io/cards-jekyll-theme/screenshot-2.jpg"></img>
